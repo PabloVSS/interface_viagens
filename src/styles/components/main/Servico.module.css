@@ -1,0 +1,19 @@
+.container_service{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+  gap: 4rem;
+  background: var(--button);
+
+  
+}
+.container_itens{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10rem;
+
+
+}
+

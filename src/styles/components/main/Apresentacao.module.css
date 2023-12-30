@@ -1,0 +1,18 @@
+.container_apresentacao{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  color: var(--letter_secundary);
+
+  }
+
+
+  .container_apresentacao > img{
+    width: 100%;
+    min-width: 35%;
+    height: 100%;
+    min-height: 35%;
+  }

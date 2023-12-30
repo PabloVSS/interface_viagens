@@ -1,0 +1,18 @@
+.container{
+    display: grid;
+    grid-template-rows: 10vh 100% 30vh;
+}
+
+.header{
+    background: var(--button);
+}
+.main{
+}
+.footer{
+    background: var(--button);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
